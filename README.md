@@ -6,12 +6,8 @@ This repository contains supporting material for the episode *What is Dynatrace 
 [>> More tutorials on YouTube](https://bit.ly/dtsaastrial)
 
 **Table of Contents:**
-* [Step 1: Get your own Dynatrace Trial](#step-1-get-your-own-dynatrace-trial)
 * [Step 2: Discover Dynatrace Playground Tenant](#step-2-discover-dynatrace-playground-tenant)
-* [Step 3: Ingest Data into your own Tenant](#step-3-ingest-data-into-your-own-tenant)
-* [Step 4: Analyze your Data](#step-4-analyze-your-data)
-* [Step 5: Integrate and Automate based on your data](#step-5-integrate-and-automate-based-on-your-data)
-* [Step 6: Extend Dynatrace with an Extension or App](#step-6-extend-dynatrace-with-an-extension-or-app)
+
 
 If you have questions or feedback:
 * Create an issue on this GitHub Repository if you found an issue with the tutorial:
@@ -19,11 +15,7 @@ If you have questions or feedback:
 * For everything else: [devrel@dynatrace.com](mailto:devrel@dynatrace.com)
 
 
-## Step 1: Get your own Dynatrace Trial
-
-Sign up for a new Dynatrace trial: https://bit.ly/dtsaastrial
-
-## Step 2: Discover Dynatrace Playground Tenant
+## Discover Dynatrace Playground Tenant
 
 Every Dynatrace Trial user has access to a special [Discover Dynatrace (Playground) Tenant](https://wkf10640.apps.dynatrace.com/) that allows you to explore Dynatrace and all our use cases and capabilities.
 The Playground tenant is observing several applications running on k8s clusters. 
@@ -69,15 +61,7 @@ Also make sure to explore the following **Dynatrace Apps** and Use Cases:
 * Automate and Integrate through Data & Event Driven [(App) Dynatrace Workflows](https://wkf10640.apps.dynatrace.com/ui/openApp/dynatrace.automations/)
 * ... and more
 
-## Step 3: Ingest data into your own Tenant
-
-In your own tenant simply follow the steps to data into Dynatrace. The most popular options are
-* Deploy the [Dynatrace OneAgent](https://www.dynatrace.com/support/help/setup-and-configuration/dynatrace-oneagent) on VMs, [Kubernetes](https://www.dynatrace.com/support/help/setup-and-configuration/setup-on-k8s), OpenShift or CloudFoundry
-* Ingest [OpenTelemetry](https://www.dynatrace.com/support/help/extend-dynatrace/opentelemetry), Prometheus(https://www.dynatrace.com/support/help/extend-dynatrace/extend-metrics/ingestion-methods/prometheus) or [external logs](https://www.dynatrace.com/support/help/extend-dynatrace/extend-logs)
-* Monitor your [Cloud Platforms](https://www.dynatrace.com/support/help/setup-and-configuration/setup-on-cloud-platforms) such as AWS, Google Cloud Platform, Azure or Heroku
-* Enable 600+ extensions such as SNMP, WMI, JMX, SQL and many more through the [Dynatrace Hub](https://www.dynatrace.com/hub/)
-
-## Step 4: Analyze your data
+## How we can Analyze your data through DT APPs
 
 Like we did on the Playground Tenant - start exploring your data by opening the respective Dynatrace App for your Use Case.
 
@@ -110,7 +94,7 @@ If you **dont have access** to the Discover Dynatrace Tenant then **check them o
 * [(Readme) How to define Ownership in Dynatrace](./how-to-diagnostics/how-to-define-ownership.md)
 
 
-## Step 5: Integrate and Automate based on your data
+## How Can you Integrate and Automate based on your data
 
 Start by building workflows to connect Dynatrace with your tool ecosystem.
 
