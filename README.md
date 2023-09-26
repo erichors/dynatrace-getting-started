@@ -20,18 +20,19 @@ If you have questions or feedback:
 Every Dynatrace Trial user has access to a special [Discover Dynatrace (Playground) Tenant](https://wkf10640.apps.dynatrace.com/) that allows you to explore Dynatrace and all our use cases and capabilities.
 The Playground tenant is observing several applications running on k8s clusters. To get access to the tennent sign up for a [Dynatrace University](https://www.dynatrace.com/dynatrace-university/) user.
 
-##Read-only Dynatraced Dashboards
+## Read-only Dynatraced Dashboards
 * [(Live Dashboard) Getting Started Dashboard](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=eaa07354-fcf8-4723-8c26-8ca2b0f120a4)
 * [(Live Dashboard) K8s Cluster Overview](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=906052ed-d03c-4a33-a302-6f7e55f5e4bd)
 * [(Live Dashboard) K8s Namespace Overview](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=19014900-50c3-4239-9ffa-3888cef882b4)
 * [(Live Dashboard) EasyTrade Dashboard](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=d2ae8659-2b0a-4b10-9546-5114b2fbf3a6)
 * [(Live Dashboard) How to get Ownership Overview](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=19de7d7b-477e-4134-ba2a-3d1ee776096b)
 
-## **read only Dynatrace Notebooks** to play around with (more to come):
+## Read-Only Dynatrace Notebooks
 * [(Live Notebook) Getting Started Notebook](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=bc440f34-626b-4303-b591-923d722d5600)
 * [(Live Notebook)Sample Log Notebook](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=f90a132b-36fd-4735-9d75-66e5a84a7ea2)
 
-##  **Hands-On Tutorial Notebooks** with Step-by-Step instructions:
+##  Hands-On Tutorial Notebooks
+     with Step-by-Step instructions:
 * [(Live Tutorial Notebook) How to do Distributed Trace and Database Diagnostics](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=fc1ff600-6819-4aee-b771-0f3219c4532c)
 * [(Live Tutorial Notebook) How to Anlayze Infrastructure with Dynatrace](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=28daf510-286f-4761-b681-659ab072a6f2)
 * [(Live Tutorial Notebook) How to Analyze Kubernetes Clusters and Workloads with Dynatrace](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=b1a22f8e-4e3e-4c5a-90b0-f072b53c5f91)
@@ -47,7 +48,7 @@ I added new Notebooks for my **The Observability Guide to Platform Engineering**
 * [(Live Tutorial Notebook) How to define Ownership in Dynatrace](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=6f991064-9a32-454a-b837-2beb8012c0bb)
 
 
-## Also make sure to explore the following **Dynatrace Apps** and Use Cases:
+## Explore Dynatrace Apps and Use Cases:
 * [(App) Davis Detected Problems](https://wkf10640.apps.dynatrace.com/ui/apps/dynatrace.classic.problems/ui/problems?gtf=-24h+to+now) explore the power of automated root cause detection
 * Kubernetes [(App) Clusters](https://wkf10640.apps.dynatrace.com/ui/apps/dynatrace.classic.kubernetes/ui/kubernetes/KUBERNETES_CLUSTER-279D12C72068548C) & [(App) Workloads](s://wkf10640.apps.dynatrace.com/ui/apps/dynatrace.classic.kubernetes.workloads/ui/entity/list/CLOUD_APPLICATION)
 * Understand your [(App) SLOs (Service Level Objectives)](https://wkf10640.apps.dynatrace.com/ui/apps/dynatrace.classic.slo/ui/slo)
