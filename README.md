@@ -2,7 +2,7 @@
 This repository contains dynatrace Playground, Dashboard, and How tos from the: *What is Dynatrace and How to get started!* Video.
 
 [![Watch it on YouTube](https://img.youtube.com/vi/rw8u3oZ4RdY/0.jpg)](https://www.youtube.com/watch?v=rw8u3oZ4RdY)
-
+ 
 [>> More tutorials on YouTube](https://bit.ly/dtsaastrial)
 
 **Table of Contents:**
