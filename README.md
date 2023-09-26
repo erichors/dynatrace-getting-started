@@ -7,7 +7,7 @@ This repository contains dynatrace Playground, Dashboard, and How tos from the: 
 
 **Table of Contents:**
 * [Discover Dynatrace Playground Tenant](#discover-dynatrace-playground-tenant)
-* [Dashboards](#
+* [Sample Dashboards](#Read-only-Dynatraced-Dashboard)
 
 
 If you have questions or feedback:
@@ -20,7 +20,7 @@ If you have questions or feedback:
 Every Dynatrace Trial user has access to a special [Discover Dynatrace (Playground) Tenant](https://wkf10640.apps.dynatrace.com/) that allows you to explore Dynatrace and all our use cases and capabilities.
 The Playground tenant is observing several applications running on k8s clusters. To get access to the tennent sign up for a [Dynatrace University](https://www.dynatrace.com/dynatrace-university/) user.
 
-## Some shared **read-only Dynatraced Dashboards** I've uploaded for you:
+##Read-only Dynatraced Dashboards
 * [(Live Dashboard) Getting Started Dashboard](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=eaa07354-fcf8-4723-8c26-8ca2b0f120a4)
 * [(Live Dashboard) K8s Cluster Overview](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=906052ed-d03c-4a33-a302-6f7e55f5e4bd)
 * [(Live Dashboard) K8s Namespace Overview](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=19014900-50c3-4239-9ffa-3888cef882b4)
