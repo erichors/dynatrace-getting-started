@@ -8,7 +8,7 @@ This repository contains dynatrace Playground, Dashboard, and How tos from the: 
 **Table of Contents:**
 * [Discover Dynatrace Playground Tenant](#discover-dynatrace-playground-tenant)
 * [Sample Dashboards](#Read-only-Dynatraced-Dashboard)
-
+ 
 
 If you have questions or feedback:
 * Create an issue on this GitHub Repository if you found an issue with the tutorial:
