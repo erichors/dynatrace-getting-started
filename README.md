@@ -1,7 +1,7 @@
 # Problem Cards 
 This repository is an exert from the *What is Dynatrace and How to get started!* Video to show case problem cards.  The full repo is @
 
-##In this Used case we are gooing to:
+## In this Used case we are gooing to:
  *Go through SS cases in Service Now and drill into 3 problem cards
  *Go through Dynatrace architecture and how dynatrace correlated problems together with AI
  *Drill into a Problem card analysis in a sandbox via a Dynatrace NoteBook
@@ -12,23 +12,20 @@ Every Dynatrace Trial user has access to a special [Discover Dynatrace (Playgrou
 The Playground tenant is observing several applications running on k8s clusters. To get access to the tenant sign up for a [Dynatrace University](https://www.dynatrace.com/dynatrace-university/) user.
 
 ## Problem Card Tuturial Notebook
- 
+
 * [(Live Tutorial Notebook) How to work with Davis-detected Problems](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=529dc6b6-db2d-4cdc-94fc-d4b5b9146a13)
 
-
-
-If you have questions or feedback:
-* Create an issue on this GitHub Repository if you found an issue with the tutorial:
-* Ask the Dynatrace community on https://community.dynatrace.com
-
-
+## Below are the instructional elements from the *Getting Started Performance Clinic -* https://github.com/dynatrace-perfclinics/dynatrace-getting-started
 
 [![Watch it on YouTube](https://img.youtube.com/vi/rw8u3oZ4RdY/0.jpg)](https://www.youtube.com/watch?v=rw8u3oZ4RdY)
  
 [>> More tutorials on YouTube](https://bit.ly/dtsaastrial)
 
+If you have questions or feedback:
+* Create an issue on this GitHub Repository if you found an issue with the tutorial:
+* Ask the Dynatrace community on https://community.dynatrace.com
+
 **Table of Contents:**
-* [Discover Dynatrace Playground Tenant](#discover-dynatrace-playground-tenant)
 * [Sample Dashboards](#Read-only-Dynatraced-Dashboard)
 
 
