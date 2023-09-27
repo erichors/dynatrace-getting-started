@@ -2,9 +2,9 @@
 This repository is an exert from the *What is Dynatrace and How to get started!* Video to show case problem cards.
 
 ## In this Used case we are gooing to:
- *Go through SS cases in Service Now and drill into 3 problem cards
- *Go through Dynatrace architecture and how dynatrace correlated problems together with AI
- *Drill into a Problem card analysis in a sandbox via a Dynatrace NoteBook
+ * Go through SS cases in Service Now and drill into 3 problem cards
+ * Go through Dynatrace architecture and how dynatrace correlated problems together with AI
+ * Drill into a Problem card analysis in a sandbox via a Dynatrace NoteBook
 
 ## Discover Dynatrace Playground Tenant
 
@@ -13,7 +13,7 @@ The Playground tenant is observing several applications running on k8s clusters.
 
 ## Problem Card Tuturial Notebook
 
-* [(Live Tutorial Notebook) How to work with Davis-detected Problems](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=529dc6b6-db2d-4cdc-94fc-d4b5b9146a13)
+ * [(Live Tutorial Notebook) How to work with Davis-detected Problems](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=529dc6b6-db2d-4cdc-94fc-d4b5b9146a13)
 
 ## Below are the instructional elements from the *Getting Started Performance Clinic -* https://github.com/dynatrace-perfclinics/dynatrace-getting-started
 
