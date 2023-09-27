@@ -1,5 +1,27 @@
-# What is Dynatrace and How to get started
-This repository contains dynatrace Playground, Dashboard, and How tos from the: *What is Dynatrace and How to get started!* Video.
+# Problem Cards 
+This repository is an exert from the *What is Dynatrace and How to get started!* Video to show case problem cards.  The full repo is @
+
+##In this Used case we are gooing to:
+ *Go through SS cases in Service Now and drill into 3 problem cards
+ *Go through Dynatrace architecture and how dynatrace correlated problems together with AI
+ *Drill into a Problem card analysis in a sandbox via a Dynatrace NoteBook
+
+## Discover Dynatrace Playground Tenant
+
+Every Dynatrace Trial user has access to a special [Discover Dynatrace (Playground) Tenant](https://wkf10640.apps.dynatrace.com/) that allows you to explore Dynatrace and all our use cases and capabilities.
+The Playground tenant is observing several applications running on k8s clusters. To get access to the tenant sign up for a [Dynatrace University](https://www.dynatrace.com/dynatrace-university/) user.
+
+## Problem Card Tuturial Notebook
+ 
+* [(Live Tutorial Notebook) How to work with Davis-detected Problems](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=529dc6b6-db2d-4cdc-94fc-d4b5b9146a13)
+
+
+
+If you have questions or feedback:
+* Create an issue on this GitHub Repository if you found an issue with the tutorial:
+* Ask the Dynatrace community on https://community.dynatrace.com
+
+
 
 [![Watch it on YouTube](https://img.youtube.com/vi/rw8u3oZ4RdY/0.jpg)](https://www.youtube.com/watch?v=rw8u3oZ4RdY)
  
@@ -8,17 +30,7 @@ This repository contains dynatrace Playground, Dashboard, and How tos from the: 
 **Table of Contents:**
 * [Discover Dynatrace Playground Tenant](#discover-dynatrace-playground-tenant)
 * [Sample Dashboards](#Read-only-Dynatraced-Dashboard)
- 
 
-If you have questions or feedback:
-* Create an issue on this GitHub Repository if you found an issue with the tutorial:
-* Ask the Dynatrace community on https://community.dynatrace.com
-
-
-## Discover Dynatrace Playground Tenant
-
-Every Dynatrace Trial user has access to a special [Discover Dynatrace (Playground) Tenant](https://wkf10640.apps.dynatrace.com/) that allows you to explore Dynatrace and all our use cases and capabilities.
-The Playground tenant is observing several applications running on k8s clusters. To get access to the tennent sign up for a [Dynatrace University](https://www.dynatrace.com/dynatrace-university/) user.
 
 ## Read-only Dynatraced Dashboards
 * [(Live Dashboard) Getting Started Dashboard](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=eaa07354-fcf8-4723-8c26-8ca2b0f120a4)
@@ -31,13 +43,12 @@ The Playground tenant is observing several applications running on k8s clusters.
 * [(Live Notebook) Getting Started Notebook](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=bc440f34-626b-4303-b591-923d722d5600)
 * [(Live Notebook)Sample Log Notebook](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=f90a132b-36fd-4735-9d75-66e5a84a7ea2)
 
-##  Hands-On Tutorial Notebooks
+##  Hands-On Tutorial Notebooks (read-only)
      with Step-by-Step instructions:
 * [(Live Tutorial Notebook) How to do Distributed Trace and Database Diagnostics](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=fc1ff600-6819-4aee-b771-0f3219c4532c)
 * [(Live Tutorial Notebook) How to Anlayze Infrastructure with Dynatrace](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=28daf510-286f-4761-b681-659ab072a6f2)
 * [(Live Tutorial Notebook) How to Analyze Kubernetes Clusters and Workloads with Dynatrace](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=b1a22f8e-4e3e-4c5a-90b0-f072b53c5f91)
 * [(Live Tutorial Notebook) How to Analyze Synthetic Tests with Dynatrace](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=8cb9e594-b3c6-482f-b560-4c127cc80688)
-* [(Live Tutorial Notebook) How to work with Davis-detected Problems](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=529dc6b6-db2d-4cdc-94fc-d4b5b9146a13)
 * [(Live Tutorial Notebook) How to do Application Security with Dynatrace](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=73c1c847-5e49-4bdf-9ece-365404fa2e28)
 * [(Live Tutorial Notebook) How to analyze logs relevant to me](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=ad531ecd-ad5d-4249-a095-df5bc8a0a97e)
 
