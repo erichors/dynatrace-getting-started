@@ -23,15 +23,8 @@ The Playground tenant is observing several applications running on k8s clusters.
  * [(Live Tutorial Notebook) How to work with Davis-detected Problems](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=529dc6b6-db2d-4cdc-94fc-d4b5b9146a13)
 
 ## Below are the instructional elements from the *Getting Started Performance Clinic -* https://github.com/dynatrace-perfclinics/dynatrace-getting-started
-
-[![Watch it on YouTube](https://img.youtube.com/vi/rw8u3oZ4RdY/0.jpg)](https://www.youtube.com/watch?v=rw8u3oZ4RdY)
  
 [>> More tutorials on YouTube](https://bit.ly/dtsaastrial)
-
-If you have questions or feedback:
-* Create an issue on this GitHub Repository if you found an issue with the tutorial:
-* Ask the Dynatrace community on https://community.dynatrace.com
-
 
 ## Read-only Dynatraced Dashboards
 * [(Live Dashboard) Getting Started Dashboard](https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=eaa07354-fcf8-4723-8c26-8ca2b0f120a4)
