@@ -1,6 +1,13 @@
 # Problem Cards 
 This repository is an exert from the *What is Dynatrace and How to get started!* Video to show case problem cards.
 
+**Table of Contents:**
+*[Summary](#Workshop-Summary)
+*[Sample Dashboards](#Read-only-Dynatraced-Dashboard)
+*[Playground Tenant](#DT-Playground-Tenant)
+*[How To Dashboards](#DT-Example-Dashboards)
+*[How to Notebooks](#DT-Tuturial-Notebooks)
+
 ## In this Used case we are gooing to:
  * Go through SS cases in Service Now and drill into 3 problem cards
  * Go through Dynatrace architecture and how dynatrace correlated problems together with AI
@@ -24,13 +31,6 @@ The Playground tenant is observing several applications running on k8s clusters.
 If you have questions or feedback:
 * Create an issue on this GitHub Repository if you found an issue with the tutorial:
 * Ask the Dynatrace community on https://community.dynatrace.com
-
-**Table of Contents:**
-*[Summary](#Workshop Summary)
-* [Sample Dashboards](#Read-only-Dynatraced-Dashboard)
-* [Playground Tenant](#DT Playground Tenant)
-* [How To Dashboards](#DT Example Dashboards)
-* [How to Notebooks] (#DT Tuturial Notebooks)
 
 
 ## Read-only Dynatraced Dashboards
