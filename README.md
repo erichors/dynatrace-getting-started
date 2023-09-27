@@ -1,5 +1,5 @@
 # Problem Cards 
-This repository is an exert from the *What is Dynatrace and How to get started!* Video to show case problem cards.  The full repo is @
+This repository is an exert from the *What is Dynatrace and How to get started!* Video to show case problem cards.
 
 ## In this Used case we are gooing to:
  *Go through SS cases in Service Now and drill into 3 problem cards
@@ -26,7 +26,11 @@ If you have questions or feedback:
 * Ask the Dynatrace community on https://community.dynatrace.com
 
 **Table of Contents:**
+*[Summary](#Workshop Summary)
 * [Sample Dashboards](#Read-only-Dynatraced-Dashboard)
+* [Playground Tenant](#DT Playground Tenant)
+* [How To Dashboards](#DT Example Dashboards)
+* [How to Notebooks] (#DT Tuturial Notebooks)
 
 
 ## Read-only Dynatraced Dashboards
