@@ -1,12 +1,12 @@
 # Problem Cards 
-This repository is an exert from the *What is Dynatrace and How to get started!* Video to show case problem cards.
+This repository is an exerpt from the *What is Dynatrace and How to get started!* Video to show case problem cards.
  
-**Table of Contents:**
-*[Summary](#Workshop-Summary)
-*[Sample Dashboards](#Read-only-Dynatraced-Dashboard)
-*[Playground Tenant](#DT-Playground-Tenant)
-*[How To Dashboards](#DT-Example-Dashboards)
-*[How to Notebooks](#DT-Tuturial-Notebooks)
+**Table of Contents:** 
+ *[Summary](#Workshop-Summary) 
+ *[Playground Tenant](#DT-Playground-Tenant) 
+ *[Sample Dashboards](#Read-only-Dynatraced-Dashboard) 
+ *[How To Dashboards](#DT-Example-Dashboards) 
+ *[How to Notebooks](#DT-Tuturial-Notebooks) 
 
 ## In this Used case we are going to:
  * Go through SS cases in Service Now and drill into 3 problem cards
