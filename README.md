@@ -8,7 +8,7 @@ This repository is an exert from the *What is Dynatrace and How to get started!*
 *[How To Dashboards](#DT-Example-Dashboards)
 *[How to Notebooks](#DT-Tuturial-Notebooks)
 
-## In this Used case we are gooing to:
+## In this Used case we are going to:
  * Go through SS cases in Service Now and drill into 3 problem cards
  * Go through Dynatrace architecture and how dynatrace correlated problems together with AI
  * Drill into a Problem card analysis in a sandbox via a Dynatrace NoteBook
